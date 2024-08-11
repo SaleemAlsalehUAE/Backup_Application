@@ -47,3 +47,6 @@ E:\Work\Projects\BackUp 2\BackUp\bin\Debug\MYCPF.pdb
 E:\Work\Projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.AboutBox1.resources
 E:\work\projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.csproj.GenerateResource.Cache
 E:\work\projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.csprojResolveAssemblyReference.cache
+E:\GitHub\Backup_Application\BackUp\bin\Debug\BackUp.exe.config
+E:\GitHub\Backup_Application\BackUp\obj\x86\Debug\BackUp.exe
+E:\GitHub\Backup_Application\BackUp\obj\x86\Debug\BackUp.pdb
