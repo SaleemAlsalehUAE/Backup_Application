@@ -1,0 +1,10 @@
+E:\Work\Projects\BackUp\MYCPF\bin\Debug\MYCPF.dll
+E:\Work\Projects\BackUp\MYCPF\bin\Debug\MYCPF.pdb
+E:\Work\Projects\BackUp\MYCPF\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Projects\BackUp\MYCPF\obj\Debug\MYCPF.dll
+E:\Work\Projects\BackUp\MYCPF\obj\Debug\MYCPF.pdb
+C:\H\BackUp\MYCPF\bin\Debug\MYCPF.dll
+C:\H\BackUp\MYCPF\bin\Debug\MYCPF.pdb
+C:\H\BackUp\MYCPF\obj\Debug\MYCPF.csprojResolveAssemblyReference.cache
+C:\H\BackUp\MYCPF\obj\Debug\MYCPF.dll
+C:\H\BackUp\MYCPF\obj\Debug\MYCPF.pdb

@@ -1,0 +1,49 @@
+E:\Work\Projects\BackUp\BackUp\bin\Debug\BackUp.exe.config
+E:\Work\Projects\BackUp\BackUp\bin\Debug\BackUp.exe
+E:\Work\Projects\BackUp\BackUp\bin\Debug\BackUp.pdb
+E:\Work\Projects\BackUp\BackUp\bin\Debug\MYCPF.dll
+E:\Work\Projects\BackUp\BackUp\bin\Debug\MYCPF.pdb
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\BackUp.AboutBox1.resources
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\BackUp.addbup.resources
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\BackUp.Bupprocess.resources
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\BackUp.Form1.resources
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\BackUp.Log.resources
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\BackUp.Properties.Resources.resources
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\BackUp.Settings.resources
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\BackUp.exe
+E:\Work\Projects\BackUp\BackUp\obj\x86\Debug\BackUp.pdb
+C:\H\BackUp\BackUp\bin\Debug\BackUp.exe.config
+C:\H\BackUp\BackUp\bin\Debug\BackUp.exe
+C:\H\BackUp\BackUp\bin\Debug\BackUp.pdb
+C:\H\BackUp\BackUp\bin\Debug\MYCPF.dll
+C:\H\BackUp\BackUp\bin\Debug\MYCPF.pdb
+C:\H\BackUp\BackUp\obj\x86\Debug\BackUp.csprojResolveAssemblyReference.cache
+C:\H\BackUp\BackUp\obj\x86\Debug\BackUp.AboutBox1.resources
+C:\H\BackUp\BackUp\obj\x86\Debug\BackUp.addbup.resources
+C:\H\BackUp\BackUp\obj\x86\Debug\BackUp.Bupprocess.resources
+C:\H\BackUp\BackUp\obj\x86\Debug\BackUp.Form1.resources
+C:\H\BackUp\BackUp\obj\x86\Debug\BackUp.Log.resources
+C:\H\BackUp\BackUp\obj\x86\Debug\BackUp.Properties.Resources.resources
+C:\H\BackUp\BackUp\obj\x86\Debug\BackUp.Settings.resources
+C:\H\BackUp\BackUp\obj\x86\Debug\BackUp.csproj.GenerateResource.Cache
+C:\H\BackUp\BackUp\obj\x86\Debug\BackUp.exe
+C:\H\BackUp\BackUp\obj\x86\Debug\BackUp.pdb
+E:\Work\Projects\BackUp 2\BackUp\bin\Debug\BackUp.exe.config
+E:\Work\Projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.exe
+E:\Work\Projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.pdb
+E:\Work\Projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.addbup.resources
+E:\Work\Projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.Bupprocess.resources
+E:\Work\Projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.Form1.resources
+E:\Work\Projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.Log.resources
+E:\Work\Projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.Properties.Resources.resources
+E:\Work\Projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.Settings.resources
+E:\Work\Projects\BackUp 2\BackUp\bin\Debug\BackUp.exe
+E:\Work\Projects\BackUp 2\BackUp\bin\Debug\BackUp.pdb
+E:\Work\Projects\BackUp 2\BackUp\bin\Debug\MYCPF.dll
+E:\Work\Projects\BackUp 2\BackUp\bin\Debug\MYCPF.pdb
+E:\Work\Projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.AboutBox1.resources
+E:\work\projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.csproj.GenerateResource.Cache
+E:\work\projects\BackUp 2\BackUp\obj\x86\Debug\BackUp.csprojResolveAssemblyReference.cache
